@@ -1,2 +1,2 @@
 # learning-to-code
-# Myself pranavasree doing KWOC
+# Myself Pranavasree registered in KWOC
